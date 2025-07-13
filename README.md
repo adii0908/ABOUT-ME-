@@ -26,10 +26,17 @@
 
   <div class="intro">
     <h1>Hello! 👋 I'm Aditya  Chaturvedi</h1>
-    <img src="https://via.placeholder.com/150" alt="My photo">
-    <p>I am 16 years old and currently a student. I love writing, coding, and learning new things! My favorite subjects are Maths and Computer science..</p>
-    <p>In my free time, I enjoy reading mystery stories, creating HTML projects, and exploring creative writing.</p>
+  
+      <p>I am 16 years old and currently a student. I love writing, coding, and learning new things! My favorite subjects are Maths and Computer science..</p>
+    <h2>About Me</h2>
 
+
+<p>I enjoy coding, writing short stories, and exploring new things on the internet. One of my favorite hobbies is creating websites using HTML, and I love working on school projects that let me use my creativity.</p>
+
+<p>My dream is to become someone who can bring change through technology and innovation. Apart from studies, I like reading mystery novels, watching motivational videos, and spending time with friends and family.</p>
+
+<p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p><h2>About Me</h2>
+<p>Hello! My name is Anand Chaturvedi, and I am 16 years old. I’m currently a student with a strong interest in technology, creativity, and learning new skills.</p>
     <h2>Contact Me</h2>
     <form action="#" method="post">
       <label for="email">Your Email:</label><br>
