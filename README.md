@@ -43,5 +43,4 @@
   </div>
   <marquee> You can also contact me on my instagram Id : _uk_adii_0908
 
-</body>
-</html>
+
