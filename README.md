@@ -9,7 +9,7 @@
       padding: 20px;
     }
     .intro {
-      background-color: white;
+      background-color: #90EE90;
       padding: 20px;
       border-radius: 15px;
       box-shadow: 0 0 10px gray;
@@ -22,7 +22,7 @@
     }
   </style>
 </head>
-<body bgcolor=#90EE90>
+<body >
 
   <div class="intro">
     <h1>Hello! 👋 I'm Aditya  Chaturvedi</h1>
