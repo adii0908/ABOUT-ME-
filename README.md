@@ -22,7 +22,7 @@
     }
   </style>
 </head>
-<body>
+<body bgcolor=#90EE90>
 
   <div class="intro">
     <h1>Hello! 👋 I'm Aditya  Chaturvedi</h1>
@@ -35,8 +35,7 @@
 
 <p>My dream is to become someone who can bring change through technology and innovation. Apart from studies, I like reading mystery novels, watching motivational videos, and spending time with friends and family.</p>
 
-<p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p><h2>About Me</h2>
-<p>Hello! My name is Anand Chaturvedi, and I am 16 years old. I’m currently a student with a strong interest in technology, creativity, and learning new skills.</p>
+<p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p>
     <h2>Contact Me</h2>
     <form action="#" method="post">
       <label for="email">Your Email:</label><br>
