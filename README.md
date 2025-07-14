@@ -37,7 +37,7 @@
 
 <p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p>
     <h2>Contact Me</h2>
-    <form action="https://formsubmit.co/patanava.09660802101@gamil.com" method="POST"
+    <form action="#"method="POST"
       <label for="email">Your Email:</label><br>
       <input type="email" id="email" name="email" required><br><br>
 
@@ -45,7 +45,7 @@
       <textarea id="message" name="message" rows="4" cols="40" required></textarea><br><br>
 
       <input type="submit" value="Send">
-    </form>
+    
   </div>
   <marquee> You can also contact me on my instagram Id : _uk_adii_0908
 
